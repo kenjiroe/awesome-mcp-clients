@@ -1473,7 +1473,7 @@ A terminal client for Ollama, with support for MCP servers.
 <tr><th align="left">Website</th><td>https://github.com/kenjiroe/ozr#readme</td></tr>
 <tr><th align="left">License</th><td>MIT</td></tr>
 <tr><th align="left">Type</th><td>CLI, HTTP API, Desktop (Tauri beta)</td></tr>
-<tr><th align="left">Platforms</th><td>Windows, macOS, Linux</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
 <tr><th align="left">Pricing</th><td>Free</td></tr>
 <tr><th align="left">Programming Languages</th><td>Rust</td></tr>
 </table>
